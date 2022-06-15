@@ -1,0 +1,75 @@
+#world,#india{
+    width: 400px;
+    height:220px;
+    background-color: rgb(146, 146, 187);
+    border: 1px solid white;
+    border-radius: 9px;
+    box-shadow: -9px -7px 13px #050d50 ;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding-left: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.H1{
+    background: linear-gradient(to right, #121FCF 0%, #CF1512 100%);
+    color : white;
+    padding:15px;
+    position: relative;
+    top: 0px;
+}
+body{
+    background-color:rgb(92, 101, 230)
+}
+.dg1{
+    font-size:20px;
+    font-weight: 700;
+    color: rgb(56, 54, 54);
+     border:1px solid rgb(0, 0, 0);
+     border-radius: 4px;
+     background-color: rgb(218, 213, 213);
+     padding: 4px;
+     width:130px;
+     height:40px;
+     margin-top: 4px;
+     box-shadow:  -4px -4px 4px rgb(109, 105, 105);
+     transform: rotateX(360deg);
+     transition:0.5s;
+}
+.dg2{
+    font-size:20px;
+    font-weight: 700;
+    color: rgb(56, 54, 54);
+     border:1px solid white;
+     border-radius: 4px;
+     background-color: rgb(52, 209, 4);
+     padding: 4px;
+     width:130px;
+     height:40px;
+     margin-top: 4px;
+     box-shadow: 3px 3px 9px rgb(13, 43, 1);
+     transform: rotateX(360deg);
+     transition:1s;
+}
+.dg3{
+    font-size:20px;
+    font-weight: 700;
+    color: rgb(247, 247, 247);
+     border:1px solid white;
+     border-radius: 4px;
+     background-color: rgb(236, 0, 12);
+     padding: 4px;
+     width:130px;
+     height:40px;
+     margin-top: 4px;
+     box-shadow: 6px 6px 3px rgb(65, 9, 9);
+     transform: rotateX(360deg);
+     transition:1.5s;
+}
+li{
+   color:rgb(0, 0, 0);
+    padding: 7px;
+    font-size:20px;
+    font-weight: 700;
+    text-shadow: 3px 2px 7px rgb(216, 210, 210);
+}
